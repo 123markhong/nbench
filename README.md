@@ -1,3 +1,3 @@
 # nbench
 CPU performance  test
-Helloworld
+Helloworld  hello
